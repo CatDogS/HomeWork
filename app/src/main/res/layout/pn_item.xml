@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/infor_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:maxHeight="35dp"
+        android:maxWidth="35dp" />
+
+    <TextView
+        android:id="@+id/infor_name"
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/infor_db"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:gravity="right"
+        android:textSize="22sp" />
+</LinearLayout>

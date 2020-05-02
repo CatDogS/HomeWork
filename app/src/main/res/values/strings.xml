@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">错题帮APP</string>
+    <string name="subject">科目：</string>
+    <string name="schoolyear">年级：</string>
+    <string name="diffcult">难度：</string>
+    <string name="time">时间：</string>
+    <string name="homework_answer">错题答案</string>
+    <string name="review_of">所属复习试卷</string>
+    <string name="paper_answer">试卷所属答案</string>
+    <string name="delete">删除</string>
+    <string name="review">复习试卷</string>
+    <string name="myhomwwork">我的错题集</string>
+    <string name="next_homework">下一题</string>
+    <string name="next_review">下一张试卷</string>
+    <string name="dayday_toolbar_title">日日错题斩</string>
+    <string name="dayday_toolbar_1">易错斩</string>
+    <string name="dayday_toolbar_2">难点斩</string>
+    <string name="dayday_toolbar_3">重点斩</string>
+    <string name="dayday_toolbar_4">随机斩</string>
+    <string name="dayday_toolbar_5">收工斩</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
